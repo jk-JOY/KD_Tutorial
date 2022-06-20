@@ -250,3 +250,228 @@ System memory in use after: 57.6 MB.
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1593.
 Total: 2.306900 ms (FindLiveObjects: 0.351400 ms CreateObjectMapping: 0.142400 ms MarkObjects: 1.750800 ms  DeleteObjects: 0.060600 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000687 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.682 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1129 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.6 MB.
+System memory in use after: 57.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1596.
+Total: 5.123000 ms (FindLiveObjects: 0.451000 ms CreateObjectMapping: 0.158200 ms MarkObjects: 4.362300 ms  DeleteObjects: 0.147700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 561.517529 seconds.
+  path: Assets/kd/14 - 프로퍼티
+  artifactKey: Guid(eb94f2bcb1c00e0478956c254aff3d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kd/14 - 프로퍼티 using Guid(eb94f2bcb1c00e0478956c254aff3d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '856ece29f9f771b4dc1a19b97ad03d70') in 0.003288 seconds
+  Import took 0.004813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008972 seconds.
+  path: Assets/kd/14 - 프로퍼티
+  artifactKey: Guid(eb94f2bcb1c00e0478956c254aff3d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kd/14 - 프로퍼티 using Guid(eb94f2bcb1c00e0478956c254aff3d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '856ece29f9f771b4dc1a19b97ad03d70') in 0.001285 seconds
+  Import took 0.002976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.000532 seconds.
+  path: Assets/kd/14 - 프로퍼티/Salary.cs
+  artifactKey: Guid(9dfcbeefe41543e49856ce1bf5c051dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kd/14 - 프로퍼티/Salary.cs using Guid(9dfcbeefe41543e49856ce1bf5c051dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5aa8da70ce5c97a3b097816d668a759') in 0.002375 seconds
+  Import took 0.005729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003519 seconds.
+  path: Assets/kd/14 - 프로퍼티/Salary.cs
+  artifactKey: Guid(9dfcbeefe41543e49856ce1bf5c051dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kd/14 - 프로퍼티/Salary.cs using Guid(9dfcbeefe41543e49856ce1bf5c051dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5aa8da70ce5c97a3b097816d668a759') in 0.001604 seconds
+  Import took 0.003632 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000703 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.770 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1130 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.6 MB.
+System memory in use after: 57.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1600.
+Total: 1.886700 ms (FindLiveObjects: 0.283500 ms CreateObjectMapping: 0.077900 ms MarkObjects: 1.434300 ms  DeleteObjects: 0.090300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000835 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.774 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1130 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.6 MB.
+System memory in use after: 57.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1603.
+Total: 1.725800 ms (FindLiveObjects: 0.173700 ms CreateObjectMapping: 0.051300 ms MarkObjects: 1.447700 ms  DeleteObjects: 0.050900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 166.568680 seconds.
+  path: Assets/kd/14 - 프로퍼티/Salary.cs
+  artifactKey: Guid(9dfcbeefe41543e49856ce1bf5c051dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kd/14 - 프로퍼티/Salary.cs using Guid(9dfcbeefe41543e49856ce1bf5c051dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a3e39a72561f1bcaf6be8279c4b6e7e') in 0.002770 seconds
+  Import took 0.004442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.993345 seconds.
+  path: Assets/kd/14 - 프로퍼티/Program.cs
+  artifactKey: Guid(ab1b8e5769f163c4fb5a1ae6fc56405d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kd/14 - 프로퍼티/Program.cs using Guid(ab1b8e5769f163c4fb5a1ae6fc56405d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '300f2d803970ef8ccf0f1863b31e2244') in 0.001808 seconds
+  Import took 0.004270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000922 seconds.
+  path: Assets/kd/14 - 프로퍼티/Program.cs
+  artifactKey: Guid(ab1b8e5769f163c4fb5a1ae6fc56405d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kd/14 - 프로퍼티/Program.cs using Guid(ab1b8e5769f163c4fb5a1ae6fc56405d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '300f2d803970ef8ccf0f1863b31e2244') in 0.001601 seconds
+  Import took 0.003043 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000616 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.801 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1131 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.6 MB.
+System memory in use after: 57.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1607.
+Total: 2.264000 ms (FindLiveObjects: 0.480800 ms CreateObjectMapping: 0.282600 ms MarkObjects: 1.459600 ms  DeleteObjects: 0.039500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000984 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.726 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1131 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.6 MB.
+System memory in use after: 57.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1610.
+Total: 1.472200 ms (FindLiveObjects: 0.109500 ms CreateObjectMapping: 0.025900 ms MarkObjects: 1.292800 ms  DeleteObjects: 0.042800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 605.636598 seconds.
+  path: Assets/kd/14 - 프로퍼티/Program.cs
+  artifactKey: Guid(ab1b8e5769f163c4fb5a1ae6fc56405d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kd/14 - 프로퍼티/Program.cs using Guid(ab1b8e5769f163c4fb5a1ae6fc56405d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '010ece9694c2c5f49057bcde9cb71023') in 0.002774 seconds
+  Import took 0.004474 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000643 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.728 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1131 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.6 MB.
+System memory in use after: 57.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1613.
+Total: 1.868000 ms (FindLiveObjects: 0.278300 ms CreateObjectMapping: 0.134400 ms MarkObjects: 1.352900 ms  DeleteObjects: 0.101600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000753 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.832 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1131 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.7 MB.
+System memory in use after: 57.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1616.
+Total: 1.845300 ms (FindLiveObjects: 0.188900 ms CreateObjectMapping: 0.041900 ms MarkObjects: 1.568700 ms  DeleteObjects: 0.044700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000843 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.059 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1131 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.7 MB.
+System memory in use after: 57.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1619.
+Total: 2.495200 ms (FindLiveObjects: 0.268900 ms CreateObjectMapping: 0.120200 ms MarkObjects: 2.046600 ms  DeleteObjects: 0.057500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
