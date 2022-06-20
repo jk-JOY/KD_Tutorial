@@ -53,23 +53,25 @@
     <UnityVersion>2020.3.6f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\SingleTon\PropertySingleton.cs" />
+    <Compile Include="Assets\SingleTon\C#Generic\X_MonoSingleton.cs" />
+    <Compile Include="Assets\SingleTon\MonoSingleton.cs" />
     <Compile Include="Assets\StructedTest.cs" />
     <Compile Include="Assets\Turn Based_\Scripts\EnemyStateMaschine.cs" />
+    <Compile Include="Assets\SingleTon\CommonSingleton.cs" />
     <Compile Include="Assets\kd\6 - 조건문\NewBehaviourScript.cs" />
+    <Compile Include="Assets\SingleTon\C#Generic\ItemManager.cs" />
     <Compile Include="Assets\Turn Based_\Scripts\BaseEnemy.cs" />
     <Compile Include="Assets\kd\10 - 네임스페이스\NameSpace.cs" />
     <Compile Include="Assets\Turn Based_\Scripts\BaseHero.cs" />
+    <Compile Include="Assets\SingleTon\C#Generic\Generic + Mono\SkillManager.cs" />
     <Compile Include="Assets\Turn Based_\Scripts\HeroStateMaschine.cs" />
+    <Compile Include="Assets\SingleTon\C#Generic\Generic + Mono\MonoSingletonGeneric.cs" />
     <Compile Include="Assets\kd\8 - 배열\array.cs" />
     <Compile Include="Assets\kd\7 - 반복문\forfor.cs" />
     <Compile Include="Assets\kd\9 - 컬렉션\Collection.cs" />
-    <Compile Include="Assets\SingleTon\CommonSingleton.cs" />
-    <Compile Include="Assets\SingleTon\MonoSingleton.cs" />
-    <Compile Include="Assets\SingleTon\PropertySingleton.cs" />
-    <Compile Include="Assets\SingleTon\C#Generic\X_MonoSingleton.cs" />
-    <Compile Include="Assets\SingleTon\C#Generic\ItemManager.cs" />
-    <Compile Include="Assets\SingleTon\C#Generic\Generic + Mono\MonoSingletonGeneric.cs" />
-    <Compile Include="Assets\SingleTon\C#Generic\Generic + Mono\SkillManager.cs" />
+    <Compile Include="Assets\kd\상속\Human.cs" />
+    <Compile Include="Assets\kd\상속\Student.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
