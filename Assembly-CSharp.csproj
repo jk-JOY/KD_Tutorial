@@ -60,20 +60,22 @@
     <Compile Include="Assets\Turn Based_\Scripts\EnemyStateMaschine.cs" />
     <Compile Include="Assets\SingleTon\CommonSingleton.cs" />
     <Compile Include="Assets\kd\6 - 조건문\NewBehaviourScript.cs" />
+    <Compile Include="Assets\kd\14 - 프로퍼티\Salary.cs" />
     <Compile Include="Assets\SingleTon\C#Generic\ItemManager.cs" />
     <Compile Include="Assets\Turn Based_\Scripts\BaseEnemy.cs" />
     <Compile Include="Assets\kd\10 - 네임스페이스\NameSpace.cs" />
     <Compile Include="Assets\Turn Based_\Scripts\BaseHero.cs" />
+    <Compile Include="Assets\kd\13 -상속\Student.cs" />
     <Compile Include="Assets\SingleTon\C#Generic\Generic + Mono\SkillManager.cs" />
     <Compile Include="Assets\Turn Based_\Scripts\HeroStateMaschine.cs" />
     <Compile Include="Assets\SingleTon\C#Generic\Generic + Mono\MonoSingletonGeneric.cs" />
     <Compile Include="Assets\kd\8 - 배열\array.cs" />
+    <Compile Include="Assets\kd\13 -상속\Human.cs" />
+    <Compile Include="Assets\kd\14 - 프로퍼티\Program.cs" />
     <Compile Include="Assets\kd\7 - 반복문\forfor.cs" />
     <Compile Include="Assets\kd\9 - 컬렉션\Collection.cs" />
-    <Compile Include="Assets\kd\13 -상속\Human.cs" />
-    <Compile Include="Assets\kd\13 -상속\Student.cs" />
-    <Compile Include="Assets\kd\14 - 프로퍼티\Salary.cs" />
-    <Compile Include="Assets\kd\14 - 프로퍼티\Program.cs" />
+    <Compile Include="Assets\kd\15 - 인덱서\Indexer.cs" />
+    <Compile Include="Assets\kd\16 - 인터페이스\Interface.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
